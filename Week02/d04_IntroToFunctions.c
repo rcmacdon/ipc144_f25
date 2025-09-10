@@ -66,3 +66,4 @@ float calcAreaOfCircle(int radius) {
     const float PI = 3.14159f;
     return PI * radius * radius;
 }
+
